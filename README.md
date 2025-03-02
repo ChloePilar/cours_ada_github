@@ -13,3 +13,6 @@ Test du merge conflict 1
 Test du merge conflict 2
 Test du merge conflict 3
 
+Commit squash 1
+Commit squash 2
+Commit squash 3
