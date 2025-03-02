@@ -12,3 +12,5 @@ Exercice pour apprendre à faire un pull request
 Commit squash 1
 Commit squash 2
 Commit squash 3
+
+1er commit dans branche pycharm
